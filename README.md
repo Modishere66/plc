@@ -1,2 +1,0 @@
-# plc
-temperature-monitor
